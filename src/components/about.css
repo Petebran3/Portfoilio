@@ -11,9 +11,8 @@ h1{
     color: red;
 }
 .about-section img{
-   
-    height: 400px;
-    width: 700px;
+  
+    width:50%; 
 }
 div.cards{
     display:flex;
@@ -74,4 +73,10 @@ h2{
     color: white;
     transform: rotateY(180deg);
     
+  }
+  @media screen and (max-width: 900px){
+    .about-section p{
+        font-size: 10px;
+       
+  }
   }

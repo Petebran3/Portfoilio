@@ -8,13 +8,14 @@ const About = () =>{
            
        
         <img src="./pics/peezo.jpg" alt="pete"/>
-        <p>Dedicated Coding Apprentice with six months of experience learning front- end and back-end development, version control, agile training, and react. While also enhancing my professional development skills, such as public speaking, meeting etiquette, email etiquette, and work-life balance.</p>
-       
+        
         <img 
       src="https://i.postimg.cc/ZRVMzRM1/resume.png"
       alt="resume"
-      />
-   );
+      /></div>
+      <div>
+    <p>Dedicated Coding Apprentice with six months of experience learning front- end and back-end development, version control, agile training, and react. While also enhancing my professional development skills, such as public speaking, meeting etiquette, email etiquette, and work-life balance.</p>
+       
         </div>
         <div>
         <h2>My Skills</h2>
@@ -106,7 +107,7 @@ const About = () =>{
 </div>
       </div>
       </>
-    )
+    );
 }
 
 export default About;

@@ -52,6 +52,7 @@ li{
 
 .mobile-menu-icon {
     display: none;
+    color: white;
   }
   button {
     border: none;
@@ -85,10 +86,12 @@ li{
       width: 100%;
       transition: all 0.5s ease-in-out;
       text-align: center;
+      color: black;
     }
     .mobile-menu-icon {
       position: absolute;
       display: block;
       right: 20px;
+      color: white;
     }
 }
