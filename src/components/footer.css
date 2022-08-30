@@ -1,0 +1,47 @@
+.footer{
+    padding: 25px 50px;
+    margin: 0 1rem;
+    background-color: black;
+    width: 100%;
+    text-align: center;
+   height: 100px;
+}
+h2{
+    color: red;
+    font-size: 40px;
+}
+h3{
+    color: red;
+    font-size: 20px;
+}
+p{
+    color: white;
+}
+
+/* .social-container {
+    
+    padding: 25px 50px;
+  } */
+  /* a.social {
+    margin: 0 1rem;
+    transition: transform 250ms;
+    display: inline-block;
+  }
+  a.social:hover {
+    transform: translateY(-2px);
+  } */
+  a.youtube {
+    color: darkgray;
+  }
+  
+  a.facebook {
+    color: #4968ad;
+  }
+  
+  a.twitter {
+    color: #49a1eb;
+  }
+  
+  a.instagram {
+    color: red;
+  }
