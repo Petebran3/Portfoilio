@@ -23,7 +23,7 @@ const About = () =>{
         <div className="flip-card">
   <div className="flip-card-inner">
     <div className="flip-card-front">
-      <img src="./pics/publicS.jpeg" alt="public speaking" />
+      <img src="./pics/publicn.jpeg" alt="public speaking" />
     </div>
     <div className="flip-card-back">
       <h1>Public Speaking</h1>
@@ -47,7 +47,7 @@ const About = () =>{
 <div className="flip-card">
   <div className="flip-card-inner">
     <div className="flip-card-front">
-      <img src="./pics/twork.jpeg" alt="team player" />
+      <img src="./pics/teamp.jpeg" alt="team player" />
     </div>
     <div className="flip-card-back">
       <h1>Team Player</h1>
